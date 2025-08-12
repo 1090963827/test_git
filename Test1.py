@@ -35,3 +35,4 @@ if __name__ == "__main__":
     output_dir = r"C:\Users\吴永恒\Downloads\pdf_images"
 
     pdf_to_images_pymupdf(pdf_file, output_dir)
+#test git push
